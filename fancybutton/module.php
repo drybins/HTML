@@ -38,7 +38,7 @@ declare(strict_types=1);
 
 		public function GetVisualizationTile()
 		{
-			$htmlfile = file_get_contents(__DIR__ . '/module.html');
+			$htmlfile = file_get_contents(__DIR__ . '/svg.html');
 			return $htmlfile;
 		}
 	}
