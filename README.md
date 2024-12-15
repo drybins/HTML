@@ -1,4 +1,4 @@
-# HTML1
+# HTML
 
 Folgende Module beinhaltet das HTML1 Repository:
 
