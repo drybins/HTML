@@ -36,7 +36,7 @@ declare(strict_types=1);
 			}
 		}
 
-		public function GetVisualisationTile()
+		public function GetVisualizationTile()
 		{
 			$htmlfile = file_get_contents(__DIR__ . '/module.html');
 			return $htmlfile;
